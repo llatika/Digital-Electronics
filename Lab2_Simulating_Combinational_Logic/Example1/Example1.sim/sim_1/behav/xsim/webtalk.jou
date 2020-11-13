@@ -2,11 +2,11 @@
 # Webtalk v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Fri Oct 23 14:28:57 2020
-# Process ID: 16220
-# Current directory: C:/Users/piotrows20/OneDrive/Laboratory3/Laboratory3.sim/sim_1/behav/xsim
-# Command line: wbtcv.exe -mode batch -source C:/Users/piotrows20/OneDrive/Laboratory3/Laboratory3.sim/sim_1/behav/xsim/xsim.dir/mylogic_tb_behav/webtalk/xsim_webtalk.tcl -notrace
-# Log file: C:/Users/piotrows20/OneDrive/Laboratory3/Laboratory3.sim/sim_1/behav/xsim/webtalk.log
-# Journal file: C:/Users/piotrows20/OneDrive/Laboratory3/Laboratory3.sim/sim_1/behav/xsim\webtalk.jou
+# Start of session at: Fri Nov  6 18:43:08 2020
+# Process ID: 3780
+# Current directory: C:/Users/Laska/Desktop/STUDY/Digital electronics/Lab2_Simulating_Combinational_Logic/Example1/Example1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Laska/Desktop/STUDY/Digital electronics/Lab2_Simulating_Combinational_Logic/Example1/Example1.sim/sim_1/behav/xsim/xsim.dir/mylogic_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Laska/Desktop/STUDY/Digital electronics/Lab2_Simulating_Combinational_Logic/Example1/Example1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Laska/Desktop/STUDY/Digital electronics/Lab2_Simulating_Combinational_Logic/Example1/Example1.sim/sim_1/behav/xsim\webtalk.jou
 #-----------------------------------------------------------
-source C:/Users/piotrows20/OneDrive/Laboratory3/Laboratory3.sim/sim_1/behav/xsim/xsim.dir/mylogic_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+source C:/Users/Laska/Desktop/STUDY/Digital -notrace

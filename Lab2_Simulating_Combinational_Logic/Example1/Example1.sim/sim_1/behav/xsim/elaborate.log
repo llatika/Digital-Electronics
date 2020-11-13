@@ -1,6 +1,6 @@
 Vivado Simulator 2019.1
 Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx2019/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto f86e9e9f779c4a2f8f792d4bfbbe9442 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot mylogic_tb_behav xil_defaultlib.mylogic_tb xil_defaultlib.glbl -log elaborate.log 
+Running: C:/Users/Laska/Documents/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto aae79a04ffb645f998cba63ebc01e0bb --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot mylogic_tb_behav xil_defaultlib.mylogic_tb xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Completed static elaboration
